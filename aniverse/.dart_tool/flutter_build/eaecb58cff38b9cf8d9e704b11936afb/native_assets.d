@@ -1,0 +1,1 @@
+ C:\\Users\\User\\OneDrive\\Y1S2\\Orbital\\aniverse\\.dart_tool\\flutter_build\\eaecb58cff38b9cf8d9e704b11936afb\\native_assets.yaml: 
